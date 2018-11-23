@@ -3,7 +3,6 @@ package com.mecm.shopcart
 import android.os.Bundle
 import android.support.v7.app.AppCompatActivity
 import android.support.v7.widget.LinearLayoutManager
-import android.util.Log
 import com.mecm.shopcart.adpater.CartListAdapter
 import com.mecm.shopcart.entity.CartProduct
 import com.mecm.shopcart.entity.CartShop
@@ -60,8 +59,6 @@ class MainActivity : AppCompatActivity() {
                     }
                 }
                 isAddProductId(cartProduct)
-                Log.e("TAGG", selectedProList.toString())
-                Log.e("TAGG", selectedShopList.toString())
 
             }
 
@@ -188,9 +185,6 @@ class MainActivity : AppCompatActivity() {
             }
             // end
         }
-        Log.e("TAGG", selectedProList.toString())
-        Log.e("TAGG", selectedShopList.toString())
-
 
     }
 
