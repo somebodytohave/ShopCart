@@ -9,13 +9,9 @@
 # 快速上手
 1. 理论你只需要改变[商城的布局样式](https://github.com/IsSwm/ShopCart/blob/master/app/src/main/res/layout/item_cart_list.xml)与[购物车产品样式](https://github.com/IsSwm/ShopCart/blob/master/app/src/main/res/layout/item_cart_product.xml)即可使用。
 
+
 ## 关于建议需求。
-如果你有建议与需求,请移步至 [提交Issues](https://github.com/mecm/ShopCart/issues)
-
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues-raw/IsSwm/ShopCart.svg)
-
+如果你有建议与需求,请提交至 [![](https://img.shields.io/github/issues/IsSwm/ShopCart.svg)](https://github.com/mecm/ShopCart/issues)
 
 ## 关于"乞讨"
-这是小弟感觉第一个有帮助的Demo项目,如果感觉还不错或想鼓励下。 ![](https://ghbtns.com/github-btn.html?user=IsSwm&repo=ShopCart&type=star&count=true)
-![](https://img.shields.io/github/stars/IsSwm/ShopCart.github.io.svg)
-![](https://img.shields.io/badge/language-kotlin-orange.svg)
+简单明了 [![](https://img.shields.io/github/stars/IsSwm/ShopCart.svg?label=Stars&style=social)](https://github.com/IsSwm/ShopCart) 
