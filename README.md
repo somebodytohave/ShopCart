@@ -11,7 +11,7 @@
 
 
 ## 关于建议需求。
-如果你有建议与需求,请提交至 [![](https://img.shields.io/github/issues/IsSwm/ShopCart.svg)](https://github.com/mecm/ShopCart/issues)
+如果你有建议与需求,请提交至 [![](https://img.shields.io/github/issues/IsSwm/ShopCart.svg)](https://github.com/IsSwm/ShopCart/issues)
 
 ## 关于"乞讨"
 简单明了 [![](https://img.shields.io/github/stars/IsSwm/ShopCart.svg?label=Stars&style=social)](https://github.com/IsSwm/ShopCart) 
