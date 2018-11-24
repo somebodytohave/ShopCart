@@ -4,7 +4,7 @@
 ![效果图.gif](https://github.com/sun-wenming/ShopCart/blob/master/shopcart.gif)
 
 
-通过两个`RecyclerView`与两个`Adapter`实现. [Adapter基于BaseRecyclerViewAdapterHelper](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)
+通过两个`RecyclerView(主RecyclerView与产品RecyclerView)`与两个`Adapter`实现. [Adapter基于BaseRecyclerViewAdapterHelper](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)
 
 # 快速上手
 1. 理论你只需要改变[商城的布局样式](https://github.com/sun-wenming/ShopCart/blob/master/app/src/main/res/layout/item_cart_list.xml)与[购物车产品样式](https://github.com/sun-wenming/ShopCart/blob/master/app/src/main/res/layout/item_cart_product.xml)即可使用。
@@ -14,5 +14,5 @@
 如果你有建议与需求,请提交至 [![](https://img.shields.io/github/issues/sun-wenming/ShopCart.svg)](https://github.com/sun-wenming/ShopCart/issues)
 
 ## 关于"乞讨"
- :smirk: 简单明了 来[![GitHub stars](https://img.shields.io/github/stars/sun-wenming/ShopCart.svg?label=Stars&style=popout)](https://github.com/sun-wenming/ShopCart)
+ :smirk: 简单明了 来 [![GitHub stars](https://img.shields.io/github/stars/sun-wenming/ShopCart.svg?label=Stars&style=popout)](https://github.com/sun-wenming/ShopCart)
 
